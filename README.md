@@ -1,3 +1,9 @@
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/%D0%A4%D0%B8%D0%B7%D0%A4%D0%B0%D0%BA%D0%A5%D0%9D%D0%A3.jpg" width="50" height="50">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="http://geometry.karazin.ua/themes/frontend/images/univer_logo.jpg" width="50" height="50">
+</div>
+
 # Processing the results of the experiment and modeling physical processes in the algorithmic language Python
 
 Final test homework assignment for the course "Processing of Experimental Results and Modeling of Physical Processes in the Algorithmic Python Language" at V. N. Karazin Kharkiv National University, which I took in 2021. 
